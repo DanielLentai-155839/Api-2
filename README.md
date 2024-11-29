@@ -19,6 +19,3 @@ Run migrations:
 # Start the server:
 
 
-`python manage.py runserver`
-Test the API using Thunderclient, check out my blog on thunderclient and other extentions
-
