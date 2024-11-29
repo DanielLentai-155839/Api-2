@@ -1,7 +1,7 @@
 # Api_cat_2
 # Product API
 
-This is a REST API built with Django to manage products. It supports the following operations:
+ThiS is a REST API built with Django to manage products. It supports the following operations:
 
 # Clone the repository:
 `git clone https://github.com/your-username/product-api.git`
